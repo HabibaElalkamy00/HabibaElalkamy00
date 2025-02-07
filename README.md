@@ -7,12 +7,6 @@ with the latest advancements, and delivering innovative solutions .
 
 
 
-### 🚀 About Me
----
-Passionate and dedicated Front-end Developer with a strong focus on technologies. Committed to continuous learning, staying updated with the latest advancements, and delivering innovative solutions.
-<br><br>
-
-
 
 ### 🌐 Socials
 ---
