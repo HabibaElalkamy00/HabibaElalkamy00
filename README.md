@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm **Habiba Elalkamy** </h1>
 
 <p align="center">
-  Passionate and dedicated Feont-end with a strong focus on technologies. Committed to continuous learning, staying updated 
+  Passionate and dedicated Front-end with a strong focus on technologies. Committed to continuous learning, staying updated 
 with the latest advancements, and delivering innovative solutions .
 </p> <br>
 
